@@ -1,0 +1,36 @@
+id,lang,question,gold_article
+1,en,"If a company puts a chatbot on its website, does it have to tell visitors that they are not talking to a real person?",50
+1,fr,"Si une entreprise installe un chatbot sur son site web, doit-elle prévenir les visiteurs qu'ils ne parlent pas à une vraie personne ?",50
+1,ru,"Если компания размещает чат-бота на своём сайте, обязана ли она предупреждать посетителей, что они общаются не с живым человеком?",50
+2,en,Can my employer use software that reads my facial expressions to guess whether I am stressed or bored at work?,5
+2,fr,Mon employeur peut-il utiliser un logiciel qui analyse les expressions de mon visage pour deviner si je suis stressé ou si je m'ennuie au travail ?,5
+2,ru,"Может ли работодатель использовать программу, которая по выражению лица определяет, испытываю ли я стресс или скуку на работе?",5
+3,en,How much money can a company be forced to pay if it uses one of the banned AI techniques?,99
+3,fr,Combien une entreprise peut-elle devoir payer si elle utilise l'une des techniques d'IA interdites ?,99
+3,ru,"Какую сумму может быть вынуждена заплатить компания, если она использует одну из запрещённых технологий ИИ?",99
+4,en,"If a bank's AI system played a part in refusing my loan, can I ask the bank to explain how the decision was made?",86
+4,fr,"Si un système d'IA a contribué au refus de mon prêt par la banque, puis-je demander à la banque d'expliquer comment la décision a été prise ?",86
+4,ru,"Если банковская система ИИ повлияла на отказ в кредите, могу ли я потребовать от банка объяснить, как было принято это решение?",86
+5,en,Must a human be able to step in and switch off a high-risk AI system while it is running?,14
+5,fr,Un humain doit-il pouvoir intervenir et arrêter un système d'IA à haut risque pendant son fonctionnement ?,14
+5,ru,Должен ли человек иметь возможность вмешаться и остановить систему ИИ высокого риска во время её работы?,14
+6,en,"What does the law expect from the examples a high-risk system learns from, for instance to avoid treating some groups unfairly?",10
+6,fr,"Qu'exige la loi concernant les exemples à partir desquels un système à haut risque apprend, par exemple pour éviter de traiter injustement certains groupes ?",10
+6,ru,"Каким требованиям должны соответствовать примеры, на которых обучается система высокого риска, например чтобы она не дискриминировала определённые группы людей?",10
+7,en,How much computing power used during training makes a large general model count as especially dangerous?,51
+7,fr,À partir de quelle puissance de calcul utilisée pour l'entraînement un grand modèle généraliste est-il considéré comme particulièrement dangereux ?,51
+7,ru,"При каком объёме вычислений, затраченных на обучение, крупная универсальная модель считается особенно опасной?",51
+8,en,Do companies that build large foundation models have to reveal anything about the texts and images they trained them on?,53
+8,fr,Les entreprises qui développent de grands modèles de fondation doivent-elles révéler quelque chose sur les textes et les images utilisés pour les entraîner ?,53
+8,ru,"Обязаны ли компании, создающие крупные базовые модели, раскрывать какую-либо информацию о текстах и изображениях, на которых эти модели обучались?",53
+9,en,Does an army have to follow the EU's AI rules when it develops AI for defence purposes?,2
+9,fr,Une armée doit-elle respecter les règles européennes sur l'IA lorsqu'elle développe une IA à des fins de défense ?,2
+9,ru,"Должна ли армия соблюдать европейские правила об ИИ, когда разрабатывает ИИ для целей обороны?",2
+10,en,"If a high-risk AI system causes a serious accident, who must the provider inform, and how quickly?",73
+10,fr,"Si un système d'IA à haut risque provoque un accident grave, qui le fournisseur doit-il prévenir, et dans quel délai ?",73
+10,ru,"Если система ИИ высокого риска стала причиной серьёзного происшествия, кого должен уведомить поставщик и в какой срок?",73
+U1,en,Which companies have already been fined under the AI Act so far?,0
+U2,en,Can I claim copyright on an image that I generated with an AI tool?,0
+U3,fr,Qui était le rapporteur du règlement sur l'IA au Parlement européen ?,0
+U4,fr,Combien d'heures par jour un salarié a-t-il le droit d'utiliser des outils d'IA ?,0
+U5,ru,Какие правила регулируют искусственный интеллект в США?,0
