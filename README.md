@@ -76,4 +76,4 @@ Everything is free: the models are downloaded and run in Colab, no API key is ne
 
 ## Author
 
-Darya Zdrelyuk, Master 1 in Language Industries (NLP), Université Grenoble Alpes, 2025–2026
+Darya Zdrelyuk, Master 2 in Language Industries (NLP), Université Grenoble Alpes, 2026–2027
