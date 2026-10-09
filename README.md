@@ -73,3 +73,7 @@ Everything is free: the models are downloaded and run in Colab, no API key is ne
 - Data: [`jeroenherczeg/eu-ai-act`](https://huggingface.co/datasets/jeroenherczeg/eu-ai-act) on Hugging Face (CC BY 4.0), based on the official text on [EUR-Lex](https://eur-lex.europa.eu/eli/reg/2024/1689/oj)
 - Libraries: LangChain, FAISS, sentence-transformers, Hugging Face `transformers` and `datasets`, pandas
 - Models: `BAAI/bge-m3`, `thenlper/gte-small`, `Qwen/Qwen2.5-3B-Instruct`
+
+## Author
+
+Darya Zdrelyuk, Master 1 in Language Industries (NLP), Université Grenoble Alpes, 2025–2026
